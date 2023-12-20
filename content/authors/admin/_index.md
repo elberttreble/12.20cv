@@ -37,10 +37,10 @@ interests:
 education:
     - course: M.A. in Journalism and Communication 
       institution: Sun Yst-sen University
-      year: 2023.09 - NOW
+      year: 2023.09
     - course: B.A. in Information Management and Information System 
       institution: University of Electronic Science and Technology of China
-      year: 2019.09 - 2023.06
+      year: 2019.09
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
