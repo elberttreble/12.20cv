@@ -35,6 +35,7 @@ interests:
 
 # Education to show in About widget
 education:
+  education:
     - course: M.A. in Journalism and Communication 
       institution: Sun Yst-sen University
       year: 2023.09 - NOW
