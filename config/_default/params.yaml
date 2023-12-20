@@ -76,8 +76,6 @@ features:
   avatar:
     gravatar: false
     shape: square
-    width: 500%
-    height: 500%
   comment:
     provider: ''
     disqus:
