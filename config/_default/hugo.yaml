@@ -39,8 +39,6 @@ imaging:
   resampleFilter: lanczos
   quality: 100
   anchor: smart
-  height: 500
-  width: 500
 timeout: 600000
 taxonomies:
   tag: tags
